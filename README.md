@@ -10,4 +10,4 @@ Welcome to the open-source documentation and asset repository for [SheTrended](h
 
 ## Official Platform
 To explore our complete publication, live fashion analyses, and editorial content, visit the official site:
-👉 SheTrended Official Website (https://shetrended.com/)
+👉 SheTrended Official Website https://shetrended.com/ 
